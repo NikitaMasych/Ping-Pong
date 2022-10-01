@@ -1,1 +1,1 @@
-This is simple ping pong using Javascript!
+# Learning basic frontend-purposed project
